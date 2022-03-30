@@ -43,8 +43,9 @@ Last Release Build : [![CircleCI](https://circleci.com/gh/argon1025/TILog-server
 
 
 ![image](https://user-images.githubusercontent.com/55491354/146319456-6dd8503d-9167-484f-ae1c-56ce4feee377.png)
-- 게시글 태그
-- 태그 검색
+- [게시글 태깅 서비스](https://github.com/argon1025/TILog-server/blob/main/src/src/posts/posts.controller.ts#L526)
+- [태그 서비스](https://github.com/argon1025/TILog-server/tree/main/src/src/tags)
+- [Github에서 pinned한 레포지토리 관리 서비스](https://github.com/argon1025/TILog-server/tree/main/src/src/pinned-repositories)
 
 
 
